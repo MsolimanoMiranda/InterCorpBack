@@ -1,0 +1,12 @@
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Juan', 'Perez', '39', '1980-01-21');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Maria', 'Roque', '25', '1994-07-02');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Laura', 'Torres', '42', '1977-01-03');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Ramon', 'Quispe', '22', '1997-03-04');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Erich', 'Ruiz', '38', '1981-02-01');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Richard', 'Martinez', '52', '1967-02-10');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Rafael', 'Negrete', '60', '1959-06-18');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('John', 'Villaseca', '27', '1992-02-28');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Ana', 'Gutierrez', '44', '1975-03-03');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Monica', 'Lopez', '48', '1971-08-04');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Teresa', 'Rojas', '24', '1995-03-05');
+INSERT INTO clientes (nombres, apellidos, edad, fecha_nacimiento) VALUES('Jorge', 'Dominguez', '33', '1986-03-06');
